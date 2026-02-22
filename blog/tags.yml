@@ -1,0 +1,21 @@
+programming:
+  label: Programming
+  description: Software development and programming
+security:
+  label: Security
+  description: Cybersecurity and infosec
+ai:
+  label: AI
+  description: Artificial intelligence and machine learning
+systems:
+  label: Systems
+  description: Systems programming, infrastructure, and ops
+culture:
+  label: Culture
+  description: Tech culture, opinion, and essays
+science:
+  label: Science
+  description: Science and research
+webdev:
+  label: Web Dev
+  description: Web development and frontend
